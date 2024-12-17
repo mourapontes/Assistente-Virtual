@@ -11,4 +11,4 @@ Funcionalidades Principais:
 O projeto utiliza HTML5, CSS3 e JavaScript, requer um navegador moderno e conexão ativa com a internet. É ideal para uso cotidiano, como buscar informações sobre notícias, clima, localização ou conhecimento geral. 
 Licença
 Este projeto está licenciado sob a MIT License - consulte o arquivo LICENSE para mais detalhes.
-Link do api:
+Link do api:https://mourapontes.github.io/Assistente-Virtual/
